@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 ## 📫 연락처
 
-- 이메일: [chehyeonyeong@gmail.com](chehyeonyeong@gmail.com)
-- GitHub: [CheHyeonYeong](https://github.com/CheHyeonYeong)
-- LinkedIn: 
+- 이메일: [aralshyub@naver.com](aralshyub@naver.com)
+- GitHub: [LeeSoHyun](https://github.com/LeeSoHyunn)
 
 ## 🔧 기술 스택
 
@@ -70,8 +69,7 @@ Here are some ideas to get you started:
 ### 스터디
 | 기간                | 활동 유형            | 그룹명 및 링크 |
 |---------------------|----------------------|----------------|
-| 2024.03 ~ 2024.06   | 코딩테스트 외 기타   | [Archetype](https://www.notion.so/Archetype-39e0f17c532e4629b7c42fc347874c35?pvs=21) |
-| 2019.09 ~ 2019.11   | C언어 공부           | YJ 스터디 |
+
 
 ### 활동
 
