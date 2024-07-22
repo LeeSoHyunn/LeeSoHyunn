@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=FFFFFF&height=300&section=header&text=🥕HyeonYeong's%20Hub🥕&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=FFFFFF&height=300&section=header&text=SoHyun's%20Hub&fontSize=50)
 
 
 ## Who is ME?
@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 - 이메일: [chehyeonyeong@gmail.com](chehyeonyeong@gmail.com)
 - GitHub: [CheHyeonYeong](https://github.com/CheHyeonYeong)
-- LinkedIn: [채현영](https://www.linkedin.com/in/%ED%98%84%EC%98%81-%EC%B1%84-8b230b255/)
-- 블로그: [CoHe](https://code-chy.tistory.com/)
+- LinkedIn: 
 
 ## 🔧 기술 스택
 
@@ -64,8 +63,6 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chehyeonyeong&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chehyeonyeong&layout=compact&theme=radical)
 
 ## 🌱 스터디 및 활동
 
