@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=FFFFFF&height=300&section=header&text=SoHyun's%20Hub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=B692C2&height=300&section=header&text=🍑SoHyun's%20Hub🍑&fontSize=50)
 
 
 ## Who is ME?
@@ -75,7 +75,6 @@ Here are some ideas to get you started:
 
 | 기간                  | 활동 유형            | 세부 사항 |
 |-----------------------|-----------------------|-----------|
-| 2022.09 ~ 2023.09     | 교내 활동             | **운하타로**<br>덕성여자대학교 내 행사 주체<br>코로나 블루로 힘겨웠던 시간들을 치유하기 위해 타로카드를 매개체로 고민을 들어주고 상담하는 행사 주체<br>**2022.09.30** 제 1차 학생 부스<br>**2022.11.09** 제 2차 학생 부스<br>**2023.03.07** 제 3차 학생 부스<br>**2023.03.14** 제 4차 학생 부스<br>**2023.09.04** 제 5차 학생 부스<br>**2023.09.18** 제 6차 학생 부스<br>**2023.11.06** 제 7차 학생 부스 |
 
 
 <br>
@@ -84,4 +83,4 @@ Here are some ideas to get you started:
 
 더 궁금한 점이 있거나 문의 사항이 있으면 연락주세요!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff9945&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=B692C2&height=200&section=footer)
