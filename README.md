@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff9945&fontColor=B692C2&height=300&section=header&text=🍑SoHyun's%20Hub🍑&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B692C2&fontColor=FFFFF&height=300&section=header&text=🍑SoHyun's%20Hub🍑&fontSize=50)
 
 
 ## Who is ME?
