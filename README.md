@@ -15,20 +15,16 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=B692C2&fontColor=FFFFFF&height=300&section=header&text=🍑SoHyun's%20Hub🍑&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B692C2&fontColor=FFFFFF&height=300&section=header&text=SoHyun's%20Hub&fontSize=50)
 
 
-## Who is ME?
-
-    
-
-
+# Hi, there👋
 
 
 ## 📫 연락처
 
-- 이메일: [aralshyub@naver.com](aralshyub@naver.com)
-- GitHub: [LeeSoHyun](https://github.com/LeeSoHyunn)
+- 이메일: [aralshyun@naver.com](aralshyun@naver.com)
+- GitHub: [LeeSoHyunn](https://github.com/LeeSoHyunn)
 
 ## 🔧 기술 스택
 
@@ -38,10 +34,16 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 
@@ -61,23 +63,12 @@ Here are some ideas to get you started:
 
 
 ## 📈 GitHub 통계
-
-
-## 🌱 스터디 및 활동
-
-
-### 스터디
-| 기간                | 활동 유형            | 그룹명 및 링크 |
-|---------------------|----------------------|----------------|
-
-
-### 활동
-
-| 기간                  | 활동 유형            | 세부 사항 |
-|-----------------------|-----------------------|-----------|
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSoHyunn&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSoHyunn&layout=compact&theme=gruvbox)
 
 <br>
+
+
 
 ## 💬 문의
 
