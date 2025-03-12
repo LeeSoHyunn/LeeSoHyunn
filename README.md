@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 📫 연락처
 
-- 이메일: [aralshyun@naver.com](aralshyun@naver.com)
+- 이메일: [leesohyun.sh@gmail.com](leesohyun.sh@gmail.com)
 - GitHub: [LeeSoHyunn](https://github.com/LeeSoHyunn)
 
 ## 🔧 기술 스택
